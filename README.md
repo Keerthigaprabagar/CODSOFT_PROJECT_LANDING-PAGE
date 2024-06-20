@@ -1,2 +1,2 @@
 # CODSOFT_PROJECT_LANDING-PAGE
-Explore our HTML/CSS landing page for sleek design and seamless functionality.Discover responsive layouts and captivating visuals tailored to enhance your online presence. Join us in creating a dynamic web experience.
+This is a stylish and responsive landing page created using HTML and CSS. It is designed to make a strong first impression and convert visitors into leads or customers by showcasing a product, service, or business.It serves as a powerful tool to attract and engage visitors, guiding them towards a specific action or conversion goal.
